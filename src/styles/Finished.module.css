@@ -1,0 +1,23 @@
+
+
+.finished_container {
+
+    height: 96%;
+
+    display: flex;
+    flex-direction: column;
+
+    justify-content: center;
+    align-items: center;
+
+    text-align: center;
+}
+
+.finished_container > h1 {
+    color: hsl(213, 96%, 18%);
+    font-size: 2rem;
+}
+
+.finished_container > summary {
+    color: hsl(231, 11%, 63%);
+}
